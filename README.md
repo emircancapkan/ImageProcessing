@@ -4,4 +4,5 @@ The application is a filtering application with 12 different filtering features 
 
 The application is an application that performs image processing. Image processing, It is the method of a computer processing and interpreting an image that is digital. Image analysis is used to improve, analyze, or process pictures using extracted data using a variety of statistical and mathematical methods. Image enhancement, acknowledgment, evaluation, classification, and data extraction are the primary goals in this discipline.
 
+YOU CAN FIND FURTHER INFORMATION IN THE USER GUIDE DOC
 
